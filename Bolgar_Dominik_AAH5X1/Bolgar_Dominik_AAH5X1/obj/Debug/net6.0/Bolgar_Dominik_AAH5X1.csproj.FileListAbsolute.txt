@@ -1,0 +1,15 @@
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\bin\Debug\net6.0\Bolgar_Dominik_AAH5X1.exe
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\bin\Debug\net6.0\Bolgar_Dominik_AAH5X1.deps.json
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\bin\Debug\net6.0\Bolgar_Dominik_AAH5X1.runtimeconfig.json
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\bin\Debug\net6.0\Bolgar_Dominik_AAH5X1.dll
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\bin\Debug\net6.0\Bolgar_Dominik_AAH5X1.pdb
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.csproj.AssemblyReference.cache
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.AssemblyInfoInputs.cache
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.AssemblyInfo.cs
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.dll
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\refint\Bolgar_Dominik_AAH5X1.dll
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.pdb
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\Bolgar_Dominik_AAH5X1.genruntimeconfig.cache
+C:\Users\bolga\OneDrive\Asztali gép\Bolgar_Dominik_AAH5X1\Bolgar_Dominik_AAH5X1\obj\Debug\net6.0\ref\Bolgar_Dominik_AAH5X1.dll

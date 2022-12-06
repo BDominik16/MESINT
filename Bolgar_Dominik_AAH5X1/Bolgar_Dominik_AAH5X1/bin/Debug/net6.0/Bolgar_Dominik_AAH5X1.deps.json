@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bolgar_Dominik_AAH5X1/1.0.0": {
+        "runtime": {
+          "Bolgar_Dominik_AAH5X1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bolgar_Dominik_AAH5X1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
